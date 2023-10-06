@@ -1,4 +1,4 @@
-# Data Scince home works
+# Data Science home works
 
 ## Projects
 
